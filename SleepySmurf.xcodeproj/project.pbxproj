@@ -11,6 +11,7 @@
 		EFABF1F7253C823200808BE0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFABF1F6253C823200808BE0 /* ContentView.swift */; };
 		EFABF1F9253C823500808BE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFABF1F8253C823500808BE0 /* Assets.xcassets */; };
 		EFABF1FC253C823500808BE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFABF1FB253C823500808BE0 /* Preview Assets.xcassets */; };
+		EFABF205253CE17B00808BE0 /* SleepySmurf1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = EFABF204253CE17B00808BE0 /* SleepySmurf1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EFABF1F8253C823500808BE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EFABF1FB253C823500808BE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EFABF1FD253C823500808BE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFABF204253CE17B00808BE0 /* SleepySmurf1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepySmurf1.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				EFABF1F6253C823200808BE0 /* ContentView.swift */,
 				EFABF1F8253C823500808BE0 /* Assets.xcassets */,
 				EFABF1FD253C823500808BE0 /* Info.plist */,
+				EFABF204253CE17B00808BE0 /* SleepySmurf1.mlmodel */,
 				EFABF1FA253C823500808BE0 /* Preview Content */,
 			);
 			path = SleepySmurf;
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFABF1F7253C823200808BE0 /* ContentView.swift in Sources */,
+				EFABF205253CE17B00808BE0 /* SleepySmurf1.mlmodel in Sources */,
 				EFABF1F5253C823200808BE0 /* SleepySmurfApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
